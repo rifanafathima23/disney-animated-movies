@@ -1,0 +1,25 @@
+﻿ 
+.home-button{
+ display: inline-block;
+  margin-top: 30px;
+  padding: 10px 20px;
+  background-color:#FFFFF0;
+  color:#8B0000;
+  text-decoration: none;
+  border-radius: 8px;
+  font-weight: bold;
+  transition: background-color 0.3s green;
+  cursor:pointer; 
+}
+.home-title{
+display:grid;
+grid-template-row:1fr;
+background-color:#FFFFF0;
+color:#8B0000;
+padding: 20px;
+margin:10px;
+border-radius:30px;
+margin-top:8px;
+text-align:center;
+
+}
